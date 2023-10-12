@@ -5,17 +5,13 @@
 using namespace std;
 
 int main() {
-	string character_name = "Tom";
-	int character_age;
-	character_age = 50;
+	char grade = 'A';
+	string phrase = "Giraffe Academy";
+	int age = 50;
+	double gpa = 2.3;
+	bool isMale = true;
 	
-	cout << "There was a man named " << character_name << endl;
-	cout << "He was " << character_age << " years old" << endl;
-	
-	character_name = "Mike";
-	
-	cout << "He liked the name " << character_name << endl;
-	cout << "But did not like being " << character_age << endl;
+	//cout <<  << endl;
 	
 	return 0;
 }
